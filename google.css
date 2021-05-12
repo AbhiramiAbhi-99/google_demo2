@@ -1,0 +1,66 @@
+.image {
+  margin-left: 400px;
+  height: 300px;
+  margin-bottom: -60px;
+}
+.para {
+  text-align: center;
+}
+
+.first {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: revert;
+  border-radius: 5px;
+  border-block: none;
+}
+
+.second {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: revert;
+  border-radius: 5px;
+  border-block: none;
+}
+
+.langs {
+  text-align: center;
+  padding-bottom: 100px;
+}
+.langs ul {
+  display: inline-block;
+  margin-left: -35px;
+}
+
+.langs ul li {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.langs ul li a {
+  color: blue;
+  text-decoration: none;
+}
+.langs li a:visited {
+  text-decoration: none;
+}
+.langs li a:hover {
+  text-decoration: underline;
+}
+.langs li a:active {
+  text-decoration: underline;
+}
+
+.search {
+  text-align: center;
+}
+.butt {
+  padding: 10px 200px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.last {
+  background-color: rgb(205, 211, 209);
+  margin: 0px;
+}
